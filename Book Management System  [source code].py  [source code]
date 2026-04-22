@@ -1,6 +1,7 @@
 inventoryarc = {}
 salesrep = []
 
+
 def AddBook():
     refnum = input("Enter ISBN code (eg:978-0441172719): ")
     Name = input("Enter book name: ")
